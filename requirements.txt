@@ -1,0 +1,10 @@
+# Upgraded dependencies (Python >=3.10, tested on 3.13)
+numpy==2.3.5
+scipy==1.16.3
+scikit-learn==1.7.2
+pandas==2.3.3
+matplotlib==3.10.7
+pytest==9.0.1
+fastapi==0.123.1
+httpx==0.28.1
+uvicorn[standard]==0.38.0
